@@ -1,5 +1,6 @@
-This is your new *vault*.
-
-Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
-
-When you're ready, delete this note and make the vault your own.
+What I want to improve:
+- Nice introduction
+- creating tests to ensure that
+	- formatting is correct for each page
+	- no orphan links
+- building and testing this as a docker container in a gitlab pipeline
